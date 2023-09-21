@@ -43,7 +43,7 @@ h2 {
 	margin: 0px;
 	flex-wrap: wrap;
 	.work {
-		width: 200px;
+		width: 180px;
 		display: flex;
 
 		align-items: center;
