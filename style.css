@@ -81,7 +81,6 @@ h2 {
 	background-color: rgb(252, 254, 255);
 	padding: 20px;
 	display: flex;
-	flex-direction: row;
 	.p-information {
 		font-size: x-large;
 	}
@@ -144,9 +143,11 @@ footer {
 @media (max-width: 768px) {
 	.information-container {
 		flex-wrap: wrap;
+		justify-content: center;
 	}
 }
 @media screen and (max-width: 410px) {
+	
 	.post-header {
 		flex-wrap: wrap;
 	}
