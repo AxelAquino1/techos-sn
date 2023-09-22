@@ -83,6 +83,7 @@ h2 {
 	display: flex;
 	.p-information {
 		font-size: x-large;
+		text-align: justify;
 	}
 	.info-img {
 		width: 400px;
